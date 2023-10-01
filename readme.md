@@ -35,7 +35,12 @@ To run the shopping assistant locally, follow these steps:
 
 1. Clone this repository to your local machine.
 2. Install the required dependencies by running `pip install -r requirements.txt`.
-3. Run the Streamlit app using `streamlit run app.py`.
+3. Create a .env file and add the following variables:
+   i.)STABLE_DIFFUSION_API_HOST
+   ii.)STABLE_DIFFUSION_API_KEY
+   iii.)STABLE_DIFFUSION_ENGINE_ID
+   iv.)METAPHOR_API_KEY
+5. Run the Streamlit app using `streamlit run streamlit_frontend.py`.
 
 ## Enhancing the Shopping Experience
 
