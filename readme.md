@@ -1,7 +1,7 @@
 # Shopping Assistant Using Metaphor API
 
 ## YouTube Demo Link
-[Watch the Demo]([https://your-youtube-demo-link-here](https://www.youtube.com/watch?v=VIFC3RWQg0k))
+[Watch the Demo]([https://www.youtube.com/watch?v=VIFC3RWQg0k])
 
 ## 1. Brief Explanation of Project
 
