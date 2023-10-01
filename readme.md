@@ -43,9 +43,6 @@ To further enhance the shopping experience:
 
 - Implement query correction and synonyms to address user query inaccuracies.
 - Include additional metadata like price, product image, ratings, and availability for better product insights.
-- Enable user feedback for issue reporting and continuous improvement.
-- Invest in machine learning and NLP for improved query relevance.
-- Consider human review and moderation to ensure accuracy in fashion-related queries and results.
 
 
 
