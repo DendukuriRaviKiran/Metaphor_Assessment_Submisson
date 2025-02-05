@@ -2,7 +2,8 @@
 
 ## YouTube Demo Link
 [Watch the Demo](https://www.youtube.com/watch?v=VIFC3RWQg0k)
-[Watch V-2](https://www.youtube.com/watch?v=K_y-SC-dVqU)
+
+[Watch Demo Version 2](https://www.youtube.com/watch?v=K_y-SC-dVqU)
 ## 1. Brief Explanation of Project
 
 Are you a fashion enthusiast who loves finding celebrity-inspired outfits or recreating manga character looks? The "Shopping Assistant Using Metaphor API" is here to make your shopping experience even more exciting and customizable.
